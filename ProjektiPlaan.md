@@ -9,7 +9,7 @@ Koostada programm, kus kasutajad saaksid omavahel suhelda.
 1. server.py: Kood serveri jaoks
 2. app.html: Suhtlusprogrammi kliendile kasutajaliides (vestlusaken)
 3. UIstyling.css: Kujundus kasutajaliidese jaoks
-3. client.js: Kliendi poolne programm (serveriga ühendamine, sõnumite saatmine serverile, sõnumite vastu võtmine serverilt)
+4. client.js: Kliendi poolne programm (serveriga ühendamine, sõnumite saatmine serverile, sõnumite vastu võtmine serverilt)
 
 
 # Tööjaotus rühma liikmete vahel
