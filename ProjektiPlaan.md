@@ -65,8 +65,8 @@ Koostada programm, kus kasutajad saaksid omavahel suhelda.
 
 ### 1. - 7. mai
 
-- esialgse programmi täiendamine
-- võimalusel lisafunktsioonid
+- Esialgse programmi täiendamine
+- Võimalusel lisafunktsioonid
 
 ### 10. mai
 
@@ -79,3 +79,7 @@ Koostada programm, kus kasutajad saaksid omavahel suhelda.
 ### 18. mai
 
 - Lõplik ja korrektselt toimiv programm esitatud
+
+### 19. mai
+
+- Projekti esitlus klassis
