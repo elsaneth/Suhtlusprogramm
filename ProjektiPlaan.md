@@ -22,7 +22,7 @@ Koostada programm, kus kasutajad saaksid omavahel suhelda.
 
 ## TRISTAN
 
-- 
+- app.html ja UIstyling.css koostamine
 -
 
 ## RAINIS
@@ -32,7 +32,7 @@ Koostada programm, kus kasutajad saaksid omavahel suhelda.
 
 ## HUGO
 
-- 
+- app.html ja UIstyling.css koostamine
 -
 
 # Ajakava ja vahe-eesmärgid
