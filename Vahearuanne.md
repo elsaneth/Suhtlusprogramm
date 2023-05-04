@@ -8,7 +8,9 @@ loetavusele ja paindlikkusele. Sellel on suur hulk raamatukogusid ja raamistikke
 mis aitab lihtsasti veebirakendusi luua. Pythonil põhinevad veebiraamistikud nagu Flask ja Django 
 toetavad sisseehitatud web socketeid, mis muudab reaalajas suhtluse klientide vahel lihtsaks.
 
-Kasutame websocketit.
+Libraries:
+- websockets
+- asyncio
 
 ## client.js
 
