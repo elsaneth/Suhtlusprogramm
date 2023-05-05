@@ -23,10 +23,16 @@ mis on veebipõhine keel. Suudab suhelda reaalajas serveriga ning dünaamiliselt
 
 - Kirjutatud markupis
 
-Soovime, et meie programmi saaks kasutada veebis ning selleks kirjutame programmi HTMLis. HTMLis ühendame kliendipoolse programmi (client.js).
+Soovime, et meie programmi saaks kasutada veebis ning selleks kirjutame programmi HTMLis. HTMLis lisame scripti kliendipoolse programmi (client.js).
 
 ## UIstyling.css
 
 - Kirjutatud stylesheetsis
 
 Kasutajaliides kujundatud CSSis.
+
+## html.js
+
+- Kirjutatud JavaScriptis
+
+Lisafail kujundusele.
