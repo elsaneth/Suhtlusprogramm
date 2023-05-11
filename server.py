@@ -22,7 +22,7 @@ async def handle_client(websocket):
 
 
 async def main():
-    async with websockets.serve(handle_client, '192.168.1.83', 12345):
+    async with websockets.serve(handle_client, '0.0.0.0', 12345):
         # sõnum konsooli
         print("Server started...")
         await asyncio.Future()  # hoiab serveri kogu aeg töös
