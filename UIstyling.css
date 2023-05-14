@@ -89,13 +89,14 @@ h1 {
   margin: 0;
 }
 .chat {
-  width: 99%;
+  width: 98%;
   height: calc(100vh-165px);
   content: '';
   background-color: #FAAFBA;
   opacity: 0.7;
   border-radius: 10px;
   padding: 10px;
+  overflow-y: auto;
 }
 .chat p {
   margin: 0 0 5px 0;
@@ -136,7 +137,7 @@ button:hover {
     width: calc(99% - 160px);
   }
   .chat {
-    height: calc(100vh - 140px);
+    height: 400px;
   }
   button {
     width: 150px;
