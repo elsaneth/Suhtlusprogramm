@@ -15,7 +15,7 @@ Kasutusjuhend:
   - Sisestada IP aadress, millelt server käivitati
   - Sisestada kasutajanimi
   - Klikkida "Connect"
-  - Ühendus õnnestus, kui vestlusaknasse ilmub "sinu_kasutajanimi connected to a server"
+  - Ühendus õnnestus kui vestlusaknasse ilmub "sinu_kasutajanimi connected to a server"
   - Kirjutada sõnum kasti "Enter message.."
   - Klikkida "Send" või vajutada klaviatuuril connect
   - Saadetud sõnumid ilmuvad vestlusaknasse
