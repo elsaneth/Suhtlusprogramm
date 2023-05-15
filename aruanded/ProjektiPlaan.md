@@ -37,6 +37,8 @@ Koostada programm, kus kasutajad saaksid omavahel suhelda.
 - Lõpparuanne
 - Slaidiesitlus
 - Teiste tehtud koodide ülevaatus
+- Server.py
+- Client.js
 
 ## HUGO
 
