@@ -18,22 +18,32 @@ Koostada programm, kus kasutajad saaksid omavahel suhelda.
 
 - Koos mõeldud tööjaotuse/esmase plaani kirja panek
 - server.py
+- client.js
 - Vahearuanne
+- Lõpparuanne
+- Teiste tehtud koodide ülevaatus ja parandus
+- README.md
 
 ## TRISTAN
 
-- app.html ja UIstyling.css koostamine
--
+- Programmi testkäivitamine
+- app.html
+- UIstyling.css
+- server.py ülevaatus ühiselt ja veaparandus esialgses versioonis (GitHubis märki pole, kuna tegelesime sellega koos koolis)
 
 ## RAINIS
 
-- 
--
+- Programmi testkäivitamine
+- Lõpparuanne
+- Slaidiesitlus
+- Teiste tehtud koodide ülevaatus
 
 ## HUGO
 
-- app.html ja UIstyling.css koostamine
--
+- app.html 
+- UIstyling.css
+- Kasutajaliidese kujunduse disain
+- Kasutajaliidese muutmine ühilduvaks kliendipoolse failiga ning sellega seoses ka client.js ülevaatus
 
 # Ajakava ja vahe-eesmärgid
 
