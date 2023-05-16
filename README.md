@@ -3,7 +3,18 @@ RAM0620 Ryhm E projekt
 
 Tegemist on lihtsa suhtlusprogrammiga, kus samas wifi võrgus olevad kasutajad saavad ühenduda serveriga ning vestelda omavahel lihtsa kasutajaliidese abil. Programm sisaldab ka serveri faili, mille abil saab enda arvutis serveri käivitada.
 
-Kasutusjuhend:
+Programm koosneb neljast failist:
+
+#### server.py
+Kood serveri käivitamiseks.
+#### client.js
+Kliendipoolne fail serveriga ühendumiseks.
+#### app.html
+Kasutajaliides programmile.
+#### UIstyling.css
+Kasutajaliidese kujundus.
+
+## Kasutusjuhend:
 
 1) Server tööle
   - Laadida alla server.py
